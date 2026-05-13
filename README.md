@@ -148,7 +148,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-MovieHub/
+PlataformaStreamingWeb/
 │
 ├── app/
 ├── assets/
@@ -223,7 +223,7 @@ services:
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/moviehub-platform.git
+git clone https://github.com/isairey/PlataformaStreamingWeb.git
 ```
 
 ---
@@ -231,7 +231,7 @@ git clone https://github.com/usuario/moviehub-platform.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd moviehub-platform
+cd PlataformaStreamingWeb
 ```
 
 ---
