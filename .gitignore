@@ -1,0 +1,41 @@
+# PHP configuration files
+config.php
+*.env
+.env.local
+.env.production
+
+# Upload directories
+assets/uploads/
+!assets/uploads/.gitkeep
+
+# Database files
+*.sql
+*.db
+
+# Log files
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Composer
+vendor/
+composer.lock
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/

@@ -1,0 +1,14 @@
+/* Minimal styles for new releases page to avoid conflicts with style.css */
+
+.new-releases-page {
+    background-color: var(--bg-dark);
+    color: var(--text-color);
+    padding: 20px 0;
+}
+
+/* Additional spacing for the swiper container */
+.featured-movies-swiper {
+    padding: 20px 0;
+}
+
+/* Override any specific styles here if needed */
